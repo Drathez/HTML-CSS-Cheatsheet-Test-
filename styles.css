@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 40px;
+    color: cornflowerblue;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid cornflowerblue;
+}
+
+th {
+    border: 1px solid white;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 100px;
+    background-color: lightblue;
+}
+
+td {
+    border: 1px cornflowerblue;
+    border-top-style: solid;
+    text-align: center;
+    font-size: 20px;
+}
+
+.tag {
+    background-color: peachpuff;
+}
+
